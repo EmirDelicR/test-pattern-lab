@@ -5,6 +5,7 @@ module.exports = (env) => {
 
     const app = {
         //Custom webpack configuration goes here
+        // Test
     };
     return app;
 };
