@@ -4,8 +4,7 @@ module.exports = (env) => {
     const { ifProd, ifDev } = getIfUtils(env);
 
     const app = {
-        //Custom webpack configuration goes here
-        // Test
+        // This must stay in application
     };
     return app;
 };

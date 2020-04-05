@@ -90,5 +90,6 @@
         "markupOnly": ".markup-only"
     },
     "cleanOutputHtml": true,
-    "exportToGraphViz": false
+    "exportToGraphViz": false,
+    "experimentalDecorators": true
 }
